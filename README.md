@@ -1,4 +1,4 @@
 # Meta_analysis_class
-Code, files, etc for Metaanalysis in Ecology class
+Code, files, etc for Meta-analysis in Ecology class
 
 Just changing some stuff
