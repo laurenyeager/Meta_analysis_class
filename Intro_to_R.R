@@ -1,6 +1,7 @@
 # Set up my working directory
 setwd("C:/Users/Lauren Yeager/Documents/Teaching/Meta-analysis/R_stuff/")
 
+#Try out basic functions
 sqrt(4)
 sqrt(weight_kg)
 
